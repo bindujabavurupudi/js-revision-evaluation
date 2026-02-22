@@ -37,5 +37,6 @@ console.log(account1.withdraw(500));
 console.log(account1.deposit(500));
 console.log(account1.withdraw(250));
 console.log(account1.deposit(200));
+console.log(account1.deposit(500));
 console.log(account1.getBalance())
 console.log(account1.getTransactionHistory())
